@@ -1,5 +1,4 @@
 # Playbook
-## by: rvent
 
 # Getting started
 Playbook was built using Tkinter on Python2.7 and will not run on Python3. Please read the alert box for instructions on how to use the application.
